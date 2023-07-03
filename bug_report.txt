@@ -1,0 +1,15 @@
+ID: 2,
+Severity: Major,
+Environment: OS: "MacOs Monterey 12.6.6",Browser: "Safari 16.5",
+Title: Widget  isn't displayed on page when select EG language,
+Steps: 
+1. Navigate to web.sitу
+2. Hover over Menu section
+3.Click Menu tutle
+4. Click Menu item
+5. Click Link Favourite
+6. Select language EG
+Expected Result: Widget is displayed,
+Actual Result: Widget isn't displayed,
+Bug reporter: Elena Mikutskaya,
+Link: https://drive.google.com/file/d/1Muqe3LqfXbFfV_pDQCKFZCARk57f1snV/view?usp=drive_link	  
